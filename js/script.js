@@ -7,6 +7,7 @@ const app = new Vue(
             // la nostra app si attiverà e verrà 
             // eseguita in funzione di...
             name: 'Beni benius in Sardinia, salludi a tottusu!',
+            img :  './img/maxresdefault.jpg',
         },
         // methods: {
         //     saluta: function () {
